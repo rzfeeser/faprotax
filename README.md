@@ -4,7 +4,10 @@
 
 One of my nature nerd buddies asked for help using the, "Functional Annotation of Prokaryotic Taxa (FAPROTAX)". Below are my notes on getting the project working on Ubuntu 18.04, Windows 10, and one of those fancy silver machines made by Tim Apple.
 
-I've made a few bug fixes thus far, and ensuring it can now run in Python 3.x so I suppose this is my own tiny fork of the FAPROTAX project.
+I've made a few bug fixes thus far. I've also made updates so the code now runs in Python 3.x. So, I suppose this is my own tiny fork of the FAPROTAX project.
+
+*"He who controls the FAPROTAX controls the universe!"*
+     *- The Baron Harkonnen*
 
 Start with a review the FAPROTAX homepage @ http://www.zoology.ubc.ca/louca/FAPROTAX/lib/php/index.php?section=Home I'm not sure if the project is currently maintained, as it references, "...maybe working on Python 3...".
 
