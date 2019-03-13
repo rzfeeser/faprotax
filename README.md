@@ -26,7 +26,7 @@ Start with a review the FAPROTAX homepage @ http://www.zoology.ubc.ca/louca/FAPR
   - numpy (press INSTALL button)
   - biom-format (press INSTALL buttom) **breakdown in install here... thoughts on moving forward... try Ubuntu shell for windows?**
 
-**Tim Apple installation instructions**
+**Tim Apple installation instructions:**
   - coming soon
 
 **Bug Fixes:**
