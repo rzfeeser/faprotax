@@ -1,14 +1,16 @@
 # faprotax
 
+*"He who controls the FAPROTAX controls the universe!" -The Baron Harkonnen*
+
 ### Summary
 
 One of my nature nerd buddies asked for help using the, "Functional Annotation of Prokaryotic Taxa (FAPROTAX)". Below are my notes on getting the project working on Ubuntu 18.04, Windows 10, and one of those fancy silver machines made by Tim Apple.
 
 I've made a few bug fixes thus far. I've also made updates so the code now runs in Python 3.x. So, I suppose this is my own tiny fork of the FAPROTAX project.
 
-*"He who controls the FAPROTAX controls the universe!" -The Baron Harkonnen*
+Start with a review the FAPROTAX homepage @ http://www.zoology.ubc.ca/louca/FAPROTAX/lib/php/index.php?section=Home I'm not sure if the project is currently maintained, as it references, "...maybe working on Python 3..." (not a good sign). I also couldn't find a github repo housing the project.
 
-Start with a review the FAPROTAX homepage @ http://www.zoology.ubc.ca/louca/FAPROTAX/lib/php/index.php?section=Home I'm not sure if the project is currently maintained, as it references, "...maybe working on Python 3...".
+We all know, *"The FAPROTAX must flow..."*. To that end, follow the steps below to get this tool working.
 
 **Ubuntu 18.04 LTS installation instructions:**
   - `sudo apt install python3-pip`
