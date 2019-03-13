@@ -1,10 +1,10 @@
 # faprotax
 
-### Visit the project homepage @ http://www.zoology.ubc.ca/louca/FAPROTAX/lib/php/index.php?section=Home
-
 ### Summary
 
-One of my nerd buddies asked me to help her get the "Functional Annotation of Prokaryotic Taxa (FAPROTAX)" working on her system. Below are my notes on getting the project working.
+One of my nature nerd buddies asked me to help her get the "Functional Annotation of Prokaryotic Taxa (FAPROTAX)" working on her system (without indicating what the system was). Below are my notes on getting the project working. I've made a few bug fixes thus far, and ensuring it can now run in Python 3.x so I suppose this is my own fork of the FAPROTAX project.
+
+Original FAPROTAX homepage @ http://www.zoology.ubc.ca/louca/FAPROTAX/lib/php/index.php?section=Home
 
 **Ubuntu 18.04 LTS installation instructions:**
   - `sudo apt install python3-pip`
